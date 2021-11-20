@@ -1,4 +1,4 @@
-## Hi , welcome to my perfil in Github !
+## Hi , welcome to my profile in Github !
 
 - 🤖 AI 
 - 🌎 Marília - SP
