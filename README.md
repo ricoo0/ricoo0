@@ -2,7 +2,7 @@
 
 - 🤖 AI 
 - 🌎 Marília - SP
-- 🚜 Agronomic Technology
+- Technology
 
 <div align="center">
   <a href="https://github.com/ricoo0">
