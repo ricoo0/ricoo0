@@ -2,7 +2,8 @@
 
 - 🤖 AI 
 - 🌎 Marília - SP
-- Technology
+- Software Engineer
+- Malware Engineer
 
 <div align="center">
   <a href="https://github.com/ricoo0">
